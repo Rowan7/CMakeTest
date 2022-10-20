@@ -1,0 +1,2 @@
+/usr/bin/ar qc libageChecker.a  CMakeFiles/ageChecker.dir/ageChecker.cpp.o
+/usr/bin/ranlib libageChecker.a

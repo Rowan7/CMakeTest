@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/rowan/Desktop/projects/CMake_CTT/build",
+  "command": "/usr/bin/g++   -I/home/rowan/Desktop/projects/CMake_CTT/adder -I/home/rowan/Desktop/projects/CMake_CTT/AgeChecker -I/home/rowan/Desktop/projects/CMake_CTT/AgeChecker/.  -g   -o CMakeFiles/rowansProject.dir/main.cpp.o -c /home/rowan/Desktop/projects/CMake_CTT/main.cpp",
+  "file": "/home/rowan/Desktop/projects/CMake_CTT/main.cpp"
+},
+{
+  "directory": "/home/rowan/Desktop/projects/CMake_CTT/build/AgeChecker",
+  "command": "/usr/bin/g++   -I/home/rowan/Desktop/projects/CMake_CTT/AgeChecker/.  -g   -o CMakeFiles/ageChecker.dir/ageChecker.cpp.o -c /home/rowan/Desktop/projects/CMake_CTT/AgeChecker/ageChecker.cpp",
+  "file": "/home/rowan/Desktop/projects/CMake_CTT/AgeChecker/ageChecker.cpp"
+},
+{
+  "directory": "/home/rowan/Desktop/projects/CMake_CTT/build/Adder",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/adder.dir/adder.cpp.o -c /home/rowan/Desktop/projects/CMake_CTT/Adder/adder.cpp",
+  "file": "/home/rowan/Desktop/projects/CMake_CTT/Adder/adder.cpp"
+}
+]

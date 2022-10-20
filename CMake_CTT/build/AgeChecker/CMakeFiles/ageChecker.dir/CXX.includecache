@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../AgeChecker/ageChecker.h
+sstream
+-
+memory
+-
+iostream
+-
+
+/home/rowan/Desktop/projects/CMake_CTT/AgeChecker/ageChecker.cpp
+ageChecker.h
+-
+
